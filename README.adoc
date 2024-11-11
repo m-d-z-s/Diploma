@@ -1,0 +1,5 @@
+= Diploma thesis: Handwritten text images processing =
+
+
+== Description ==
+Diploma thesis for a Bachelor's degree on subject of handwritten text images processing 
